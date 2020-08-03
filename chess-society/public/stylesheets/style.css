@@ -1,0 +1,66 @@
+.jumbotron-first{
+    background-image: linear-gradient(RGB(255,51,63), RGB(255,51,63)), url();
+    max-width:100%;
+    max-height:100%;
+    background-repeat: no-repeat;
+    background-size: auto 100%;
+    background-color:transparent !important;
+    height: contain;
+    padding-bottom: 0;
+    margin:0;
+    position: relative;
+
+
+;
+
+
+
+   }
+   .bottom-right{
+     position: absolute;
+     bottom:0;
+     right:0;
+   }
+
+
+
+
+ .hero-image{
+     position: relative;
+     max-width:100%;
+     max-height:100%;
+     height: 90px;
+     overflow: hidden;
+     background: url("chess1.jpg") no-repeat center;
+     background-size: contain;
+ }
+ .img-responsive{
+   height:100px;
+
+ }
+
+
+     .display-4{
+         color:aliceblue;
+         position: absolute;
+         bottom:0;
+
+     }
+
+     .btn-danger{
+
+        font-size:13px;
+
+     }
+
+table th{
+	text-align: center;
+}
+.table {
+	margin: auto;
+	width: 100% !important
+}
+
+=======
+	width: 50% !important;
+}
