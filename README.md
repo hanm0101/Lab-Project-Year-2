@@ -9,11 +9,11 @@
   # URL
   
   # Access credentials
-    System administrator:
-    Officer:
-    Member:
-    Organiser:
-    Co-organiser:
+    Birwa Shiwani, 
+    Alexandru-Andrei (Alex) Iacob, 
+    Hana Mizukami, 
+    Adrien Nurboja, 
+    Tsz Ling (Tracy) Yau
 
  # Declaration
    All the code has borrowed ideas from the recommended training videos.
